@@ -22,5 +22,5 @@ function openLightbox(src) {
 
 function closeLightbox() {
     const lightbox = document.getElementById("lightbox");
-    lightbox.style.display = "none";
+    lightbox.style.display ="none";
 }
