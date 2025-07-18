@@ -44,7 +44,7 @@ main {
 }
 #home {
     background-color: #000;
-    height: 80vh;
+    height: 70vh;
     width: 100vw;
     display: flex;
     justify-content: center;
