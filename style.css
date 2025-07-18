@@ -50,7 +50,6 @@ main {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    position: relative;
     margin: 0;
     padding: 0;
 }
